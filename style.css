@@ -71,13 +71,13 @@ main h1:hover {
     color: hsl(178, 100%, 50%);
 }
 
-main section {
+main .price-and-days {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-main section div > p {
+main .price-and-days div > p {
     display: inline-block;
     font-size: 0.75rem;
     margin-top: 0;
@@ -91,7 +91,7 @@ main section div > p {
     color: hsl(215, 51%, 70%);
 }
 
-main section div > img,
+main .price-and-days div > img,
 main .creation img {
     vertical-align: middle;
 }
