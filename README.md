@@ -44,10 +44,6 @@ Users should be able to:
 
 ### What I learned
 
-```html
-<section>...</section>
-```
-
 ```css
 main .image .image-overlay {
     position: absolute;
