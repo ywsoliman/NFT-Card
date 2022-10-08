@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
--   [Solution URL](https://github.com/ywsoliman/NFT-Card)
--   [Live Site URL](https://ywsoliman.github.io/NFT-Card/)
+-   [Solution URL](https://github.com/ywsoliman/nft-preview-card-component)
+-   [Live Site URL](https://ywsoliman.github.io/nft-preview-card-component/)
 
 ## My process
 
